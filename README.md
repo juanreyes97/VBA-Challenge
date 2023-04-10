@@ -1,7 +1,6 @@
 # VBA-challenge
-
 Repository with:
--2 text document with the VBA script 
--2 Word document with 3 screenshots of the results
+-1 Text documento with the VBA script
+-1 Word document with 3 screenshots of the results
 
 for the Module 2 Challenge
